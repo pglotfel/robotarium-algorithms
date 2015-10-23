@@ -1,6 +1,0 @@
-function [ output_args ] = lyap_gtg_handles( input_args )
-%LYAP_GTG_HANDLES Calls lyap_g2g with handles
-
-
-end
-
